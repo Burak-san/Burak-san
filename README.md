@@ -1,4 +1,4 @@
-
+![Ekran görüntüsü 2022-12-16 130817](https://user-images.githubusercontent.com/60696929/208074997-60dc071a-8ed9-475a-b670-d5266cdbb3e7.png)
 
 <h1 align="center">Hi 👋, I'm Burak</h1>
 <h3 align="center">A passionate game developer from Turkey</h3>
