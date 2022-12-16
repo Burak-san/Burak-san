@@ -1,6 +1,6 @@
 ![Ekran görüntüsü 2022-12-16 130817](https://user-images.githubusercontent.com/60696929/208074997-60dc071a-8ed9-475a-b670-d5266cdbb3e7.png)
 
-<h1 align="left">I'm game developer in Turkey</h3>
+<h3 align="left">Hello there, I'm Burak. I'm game developer in Turkey</h3>
 
 <h3 align="left">Connect with me:</h3> 
 
