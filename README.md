@@ -1,8 +1,3 @@
-![pikrepo](https://user-images.githubusercontent.com/60696929/208072488-4373e360-ce05-4420-9b2e-adf9e8fe0166.jpg)
-![pikrepo (1)](https://user-images.githubusercontent.com/60696929/208072870-c82113da-7623-4b9a-9a0b-c8b53192f866.jpg)
-
-
-
 <h1 align="center">Hi 👋, I'm Burak</h1>
 <h3 align="center">A passionate game developer from Turkey</h3>
 
