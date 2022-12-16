@@ -1,3 +1,5 @@
+![pikrepo](https://user-images.githubusercontent.com/60696929/208072488-4373e360-ce05-4420-9b2e-adf9e8fe0166.jpg)
+
 <h1 align="center">Hi 👋, I'm Burak</h1>
 <h3 align="center">A passionate game developer from Turkey</h3>
 
@@ -13,10 +15,10 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=burak-san" alt="burak-san" /></a> </p>
 
-- 📫 How to reach me **kupaasyazilim@gmail.com**
-
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=burak-san&show_icons=true&locale=en&layout=compact" alt="burak-san" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=burak-san&show_icons=true&locale=en" alt="burak-san" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=burak-san&" alt="burak-san" /></p>
+
+- 📫 How to reach me **kupaasyazilim@gmail.com**
