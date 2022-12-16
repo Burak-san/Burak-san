@@ -19,6 +19,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=burak-san&" alt="burak-san" /></p>
 
-<p align="right"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=burak-san" alt="burak-san" /></a> </p>
-
 - 📫 How to reach me **kupaasyazilim@gmail.com**
